@@ -1,4 +1,6 @@
 Student Management System (Flask)
+
+---
 📌 Project Overview
 
 The Student Management System is a web-based application developed using Python Flask that enables efficient management of student records.
@@ -66,6 +68,7 @@ Student records can be permanently removed using the "Delete" option.
 
 All operations are handled through Flask routes connected to MongoDB.
 ---
+
 ▶️ How to Run the Project
 Step 1: Install Required Packages
 pip install flask pymongo
@@ -92,6 +95,7 @@ Responsive UI using CSS/Bootstrap
 
 Database migration to SQLite or MySQL
 ---
+
 🎓 Learning Outcomes
 
 Gained hands-on experience with Flask
@@ -102,6 +106,7 @@ Understood template rendering with Jinja2
 
 Improved understanding of web application structure
 ---
+
 📝 Conclusion
 
 This project demonstrates a complete Flask CRUD application suitable for beginners and academic submissions. It provides a strong foundation for building more advanced web applications in the future
