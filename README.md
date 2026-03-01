@@ -32,6 +32,7 @@ To build a structured and maintainable web application
 📋 View all students in a tabular format
 
 🌐 Simple and clean user interface
+
 ---
 
 🛠️ Technologies Used
@@ -113,6 +114,7 @@ Learned CRUD operations using MongoDB
 Understood template rendering with Jinja2
 
 Improved understanding of web application structure
+
 ---
 
 📝 Conclusion
